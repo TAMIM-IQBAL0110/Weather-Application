@@ -1,0 +1,5 @@
+package com.example.myapplication.api
+
+object constant {
+    val apikey = "4fde154493f74d999c994525240906"
+}
